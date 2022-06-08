@@ -64,6 +64,20 @@ img {
   font-size: 1.25rem;
 }
 
+.main-nav a:hover {
+  color: #999999;
+  background-color: black;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.contact-section button:hover {
+  color: #999999;
+  background-color: black;
+  font-weight: bolder;
+  font-size: 1.05rem;
+}
+
 form input,
 form textarea {
   display: block;
